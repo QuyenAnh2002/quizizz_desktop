@@ -1,0 +1,21 @@
+        .div-6 a {
+            text-decoration: none; /* Loại bỏ gạch chân */
+            color: inherit; /* Kế thừa màu sắc từ cha (giữ màu sắc mặc định) */
+        }
+        .div-6 a:hover {
+            text-decoration: none; /* Loại bỏ gạch chân khi di chuột qua */
+        }
+
+
+
+./images/9_Văn-removebg-preview.png
+
+https://lh3.googleusercontent.com/a/ACg8ocL6-PWOUFB3BAo-ZQthtx905UJBvwWQsJAHqQ8v-Ppc=s96-c
+
+
+<a href="hocsinh_trangchu.html">Học sinh</a>
+
+
+6750A4
+
+on-surface-variant
